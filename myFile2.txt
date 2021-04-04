@@ -3,3 +3,4 @@ apple
 tomato
 orange
 cucumber
+garlic
